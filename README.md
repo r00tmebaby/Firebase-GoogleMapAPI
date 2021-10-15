@@ -9,4 +9,4 @@ As part of my study at Birkbeck College, there was an assigment to create a mobi
   <li>Fireabse Authentication</li>
  </ul>
   
-  It may be in help to other students with ideas
+  It may be in help to other students with some ideas. You can see the live version on this link <a href="https://titan.dcs.bbk.ac.uk/~zgeorg01/mwafmazg/index.html"> Link </a>
